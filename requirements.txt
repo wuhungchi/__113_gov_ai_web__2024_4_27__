@@ -1,6 +1,5 @@
 pydantic
-<<<<<<< HEAD
-=======
-requests
->>>>>>> 585bcde76ab4fa0d9a8ba0a2260517ab99e2556d
 streamlit
+pandas
+numpy
+matplolib
